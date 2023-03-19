@@ -1,0 +1,40 @@
+section{
+    width:400px;
+    height:400px;
+    background-color:rgb(247, 231, 231);
+}
+#rgba{
+    width:70%;
+    height:55%;
+    background-color:rgba( 255,255,140,0.7)
+}
+#opacity{
+    width:50%;
+    height:50%;
+    background-color:yellow;
+    opacity:1%;
+}
+#static{
+background-color: turquoise;
+width: 100px;
+height: 150px;
+position: static;
+}
+#relative{
+    background-color:cadetblue;
+    position: relative;
+    bottom: 100px;
+}
+div{
+    background-color: peru;
+    height: 150px;
+    width: 100px;
+    display: inline-block;
+}
+#absolute{
+background-color: turquoise;
+width: 100px;
+height: 150px;
+position: absolute;
+top: 150px;
+}

@@ -1,0 +1,17 @@
+body{background-color:burlywood;
+}
+h1 {
+    text-align: center;
+    color:#323ea8;
+    font-weight: 800;
+    text-decoration:black underline wavy;
+    line-height: 2m;
+    
+}
+button{
+    color: navy;
+    background-color:salmon;
+}
+p{
+    background-color: thistle;
+}
